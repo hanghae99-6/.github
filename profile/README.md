@@ -18,13 +18,6 @@
 |![wepeech-타이머](https://user-images.githubusercontent.com/57132148/171780394-ec8c2c31-e37f-4982-a773-55bc73a200a9.gif)|![wepeech-토론 종료](https://user-images.githubusercontent.com/57132148/171780426-87f83fbf-dd68-4a8f-9007-47c1e8b0374b.gif)|![wepeech-페이지네이션](https://user-images.githubusercontent.com/57132148/171780440-8d147c68-a79e-443e-9ac4-e16f17ea9281.gif)|
 
 
-
-
-
-
-
-
-<img src="" width="300" height"200" />
 <!--
 
 
