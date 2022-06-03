@@ -1,7 +1,7 @@
 # 친구와 함께 하는 1:1 화상 토론 서비스, WEPEECH 🍑
 ![wepeech최종로고](https://user-images.githubusercontent.com/57132148/171787944-2d5b6105-b809-438d-8fd8-06521f4e5c97.png)
 ---
-
+# WEPEECH 기능
 |카테고리|찬반 선택|원클릭 투표|
 |--|--|--|
 |<img src = "https://user-images.githubusercontent.com/57132148/171777559-72bab1b2-e51d-49d3-b7b3-20da1c6c26ab.gif" width="300" height="200"/>|<img src="https://user-images.githubusercontent.com/57132148/171777728-d8fede4a-40e4-4d98-b845-5cf74033568c.gif" width="300" height="200" />|<img src="https://user-images.githubusercontent.com/57132148/171778770-1da123c8-3f87-463b-9226-8d49e1080dc7.gif" width="300" height="200"/>|
@@ -17,6 +17,9 @@
 |토론 시작 - 타이머|토론 종료|참여 토론 페이지네이션|
 |--|--|--|
 |![wepeech-타이머](https://user-images.githubusercontent.com/57132148/171780394-ec8c2c31-e37f-4982-a773-55bc73a200a9.gif)|![wepeech-토론 종료](https://user-images.githubusercontent.com/57132148/171780426-87f83fbf-dd68-4a8f-9007-47c1e8b0374b.gif)|![wepeech-페이지네이션](https://user-images.githubusercontent.com/57132148/171780440-8d147c68-a79e-443e-9ac4-e16f17ea9281.gif)|
+---
+# WEPEECH 아키텍쳐
+![최종발표용 아키텍처 편집본](https://user-images.githubusercontent.com/57132148/171794647-e7c16325-0672-49d9-982d-53eab50542b7.png)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <!--
