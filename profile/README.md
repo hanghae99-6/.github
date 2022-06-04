@@ -24,6 +24,17 @@
 # WEPEECH 아키텍쳐
 ![최종발표용 아키텍처 편집본](https://user-images.githubusercontent.com/57132148/171794647-e7c16325-0672-49d9-982d-53eab50542b7.png)
 
+# 팀원소개
+| Name | GitHub | Position | Role | 자기소개 |
+| --- | --- | --- | --- | --- |
+| 권해원🔰 | https://github.com/godnjs1582 | 프론트엔드(React) | 화상채팅,메인(핫피치/원클릭),유저프로필, 댓글, 채팅 기능 일부, 타이머 기능, LiveOn | User-friendly한 인터페이스 구축에 관심이 많는 개발자 권해원입니다. |
+| 최진용 | https://github.com/douchebag1108 | 프론트엔드(React) | 로그인, 메인, 댓글(일부), 실시간 채팅, | 근본있는 코드와 흐름이 궁금한 최진용 입니다. |
+| 이건도 | https://github.com/whyyougd | 백엔드(Spring) | CI/CD, 메인페이지 기능, 크롤링, 타이머(sse), 마이페이지, 로그인(jwt), | 끈기있는 무중단 코더. 알고리즘을 좋아하는 이건도입니다. |
+| 이현재🔰🔰 | https://github.com  | 백엔드(Spring) | ec2 서버 세팅, docker 환경 설정, 채팅 | 안되는걸 되게 하는 개발자 이현재입니다. |
+| 허희윤 | https://github.com/msk102948 | 백엔드(Spring) | 화상채팅, 메인, 토론 상세페이지, LiveOn페이지 | 결국에는 어떻게든 해내는 개발자 허희윤입니다. |
+| 이영현 |  | 디자인(UI/UX) | 메인(홈), LiveNow, 토론상세, 마이페이지, 아이콘  | 어떻게하면 효율적으로 좋은 결과를 얻어낼지 고민하는 디자이너 이영현입니다. |
+| 전송하 |  | 디자인(UI/UX) | 메인(홈), LiveNow, 토론방, 마이페이지, 일러스트 | 사용자의 니즈를 끊임없이 고민하는 디자이너 전송하입니다. |
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <!--
 
