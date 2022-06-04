@@ -2,6 +2,11 @@
 <img src = "https://user-images.githubusercontent.com/57132148/171787944-2d5b6105-b809-438d-8fd8-06521f4e5c97.png" width="600" height="400">
 
 ---
+# 프로젝트 기간
+2022년 4월 22일 ~ 2022년 6월 3일 (6주)
+
+# 시연 영상 (링크)
+https://www.youtube.com/watch?v=V20WB3ELn1s
 
 # WEPEECH 기능
 
