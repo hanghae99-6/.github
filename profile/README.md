@@ -1,16 +1,16 @@
 # 친구와 함께 하는 1:1 화상 토론 서비스, WEPEECH 🍑
 <img src = "https://user-images.githubusercontent.com/57132148/171787944-2d5b6105-b809-438d-8fd8-06521f4e5c97.png" width="600" height="400">
 
-[위피치 바로가기](https://www.wepeech.com/)
+> [위피치 바로가기](https://www.wepeech.com/)
 
 
 ---
 # 프로젝트 기간
-2022년 4월 22일 ~ 2022년 6월 3일 (6주)
+> 2022년 4월 22일 ~ 2022년 6월 3일 (6주)
 
 # 최종 발표영상 
 
-[위피치 발표 영상 바로가기](https://www.youtube.com/watch?v=V20WB3ELn1s)
+> [위피치 발표 영상 바로가기](https://www.youtube.com/watch?v=V20WB3ELn1s)
 
 # WEPEECH 기능
 |카테고리|찬반 선택|원클릭 투표|
