@@ -1,5 +1,5 @@
 # 친구와 함께 하는 1:1 화상 토론 서비스, WEPEECH 🍑
-<img src = "https://user-images.githubusercontent.com/57132148/171787944-2d5b6105-b809-438d-8fd8-06521f4e5c97.png" width="600" height="400">
+<div align=center> <img src = "https://user-images.githubusercontent.com/57132148/171787944-2d5b6105-b809-438d-8fd8-06521f4e5c97.png" width="600" height="400"> </div>
 
 > [위피치 바로가기](https://www.wepeech.com/)
 
