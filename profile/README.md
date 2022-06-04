@@ -8,8 +8,9 @@
 # 프로젝트 기간
 2022년 4월 22일 ~ 2022년 6월 3일 (6주)
 
-# 시연 영상 (링크)
-https://www.youtube.com/watch?v=V20WB3ELn1s
+# 최종 발표영상 
+
+[위피치 발표 영상 바로가기](https://www.youtube.com/watch?v=V20WB3ELn1s)
 
 # WEPEECH 기능
 |카테고리|찬반 선택|원클릭 투표|
