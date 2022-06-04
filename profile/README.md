@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=V20WB3ELn1s
 # WEPEECH 기능
 |카테고리|찬반 선택|원클릭 투표|
 |--|--|--|
-|<img src = "https://user-images.githubusercontent.com/57132148/171777559-72bab1b2-e51d-49d3-b7b3-20da1c6c26ab.gif" width="300" height="200"/>|<img src="https://user-images.githubusercontent.com/57132148/171777728-d8fede4a-40e4-4d98-b845-5cf74033568c.gif" width="300" height="200" />|<img src="https://user-images.githubusercontent.com/57132148/171778770-1da123c8-3f87-463b-9226-8d49e1080dc7.gif" width="300" height="200"/>|
+|<img src = "https://user-images.githubusercontent.com/57132148/171777559-72bab1b2-e51d-49d3-b7b3-20da1c6c26ab.gif" width="350" height="200"/>|<img src="https://user-images.githubusercontent.com/57132148/171777728-d8fede4a-40e4-4d98-b845-5cf74033568c.gif" width="350" height="200" />|<img src="https://user-images.githubusercontent.com/57132148/171778770-1da123c8-3f87-463b-9226-8d49e1080dc7.gif" width="350" height="200"/>|
 
 |뉴스 크롤링|카카오 로그인|방 만들기|
 |--|--|--|
