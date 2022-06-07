@@ -1,15 +1,11 @@
 # 친구와 함께 하는 1:1 화상 토론 서비스, WEPEECH 🍑
 <div align=center> <img src = "https://user-images.githubusercontent.com/57132148/171787944-2d5b6105-b809-438d-8fd8-06521f4e5c97.png" width="600" height="400"> </div>
 
-<center>
-<a href="https://wepeech.com/"><img width="200" alt="modal1" src="https://user-images.githubusercontent.com/57132148/172310521-cca6bb2a-a351-44c3-bc38-bc0156d4111c.png" align="left">
+<div align=right>
+<a href="https://wepeech.com/"><img width="200" alt="modal1" src="https://user-images.githubusercontent.com/57132148/172310521-cca6bb2a-a351-44c3-bc38-bc0156d4111c.png" align="center">
 </a>
-</center>
+</div>
 
-<br>
-<br>
-<br>
-<br>
 
 ---
 # 프로젝트 기간
