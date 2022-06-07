@@ -19,7 +19,7 @@
 
 |뉴스 크롤링|카카오 로그인|방 만들기|
 |--|--|--|
-|![wepeech-방 만들기](https://user-images.githubusercontent.com/57132148/171779406-fabc14b1-f1c6-4a1b-9097-514c980be5a2.gif)|![wepeech-소셜 로그인](https://user-images.githubusercontent.com/57132148/171779392-c05df2f9-be54-4dc9-8000-b58be6687589.gif)|![wepeech-뉴스](https://user-images.githubusercontent.com/57132148/171779372-559d1d77-b8b3-4490-82f9-8d72681bd88d.gif)|
+|![wepeech-뉴스](https://user-images.githubusercontent.com/57132148/171779406-fabc14b1-f1c6-4a1b-9097-514c980be5a2.gif)|![wepeech-소셜 로그인](https://user-images.githubusercontent.com/57132148/171779392-c05df2f9-be54-4dc9-8000-b58be6687589.gif)|![wepeech-방 만들기](https://user-images.githubusercontent.com/57132148/171779372-559d1d77-b8b3-4490-82f9-8d72681bd88d.gif)|
 
 |실시간 화상 채팅|실시간 채팅|패널 참여|
 |--|--|--|
